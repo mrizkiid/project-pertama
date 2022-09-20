@@ -1,2 +1,4 @@
 text pertama pada file1
-text kedua pada file2
+text kedua pada file1
+
+mengubah text pertama pada file 1
