@@ -1,0 +1,2 @@
+text pertama pada file1
+text kedua pada file2
